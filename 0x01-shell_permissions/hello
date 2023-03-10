@@ -1,0 +1,2 @@
+x=15
+if [ $x -ge 10 ] then echo "x is greater than or equal to 10" fi
